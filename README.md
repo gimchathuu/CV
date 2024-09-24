@@ -13,6 +13,9 @@ This CV webpage was built using only HTML, following semantic HTML principles. I
 - **Open Graph Tags**: Added OG tags for improved social media sharing.
 - **Favicon**: A favicon is included for better branding.
 
+## Project URL
+
+You can view the live project here: [View CV Project](https://roadmap.sh/projects/single-page-cv).
 ## Sections
 
 1. **Personal Information**:  
